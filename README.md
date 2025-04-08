@@ -54,7 +54,7 @@ Guest results can be exported from Guest Results screen
 
 Files are saved to Downloads folder (Windows) or Documents (Android)
 
-Technical Details
+## Technical Details
 Built with Flutter 3.0+
 
 Uses Provider for state management
